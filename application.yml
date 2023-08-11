@@ -1,6 +1,7 @@
-spring:
-  application:
-    name: Config-Default
+# Fetching it from service provide name 
+# spring:
+#   application:
+#     name: Config-Default
 
 eureka:
   discovery:
